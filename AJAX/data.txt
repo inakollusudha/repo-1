@@ -1,0 +1,4 @@
+Here i am displaying AJAX data.
+Create object
+create request using object open() method
+send request using send() method.
